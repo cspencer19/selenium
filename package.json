@@ -7,21 +7,20 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node exercise_1/test.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/loghen41/selenium.git"
+    "url": "git+https://github.com/cspencer19/selenium.git"
   },
   "author": "Logan Hendricks",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/loghen41/selenium/issues"
+    "url": "https://github.com/cspencer19/selenium/issues"
   },
-  "homepage": "https://github.com/loghen41/selenium#readme",
+  "homepage": "https://github.com/cspencer19/selenium#readme",
   "dependencies": {
-    "selenium-webdriver": "^3.5.0",
-    "chromedriver": "2.37.0",
-    "sendmail": "1.4.1"
+    "selenium-webdriver": "^4.41.0",
+    "sendmail": "^1.6.1"
   }
 }
