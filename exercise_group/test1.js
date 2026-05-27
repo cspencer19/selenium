@@ -6,12 +6,12 @@ var driver = new webdriver.Builder()
 	.forBrowser('chrome')
 	.build();
 
-driver.get('https://loghen41.github.io');
+driver.get('https://cspencer19.github.io');
 
 /*  You have 45 minutes to complete all three of these tasks as a group
 		Group Exercise 1:
 
-		1. Access the To Do app at "https://loghen41.github.io"
+		1. Access the To Do app at "https://cspencer19.github.io"
 		2. Click on the "About" link
 		3. Confirm you are on the about page
 		4. Click on the "Settings" link
